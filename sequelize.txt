@@ -1,0 +1,3 @@
+What is Sequelize ?
+
+It simply means writing SQL queries using javascript object (dot-notation) syntax this means as if you were accessing properties in a javascript object.

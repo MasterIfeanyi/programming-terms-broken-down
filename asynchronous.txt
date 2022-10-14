@@ -1,0 +1,3 @@
+What is Asynchronous ?
+
+Asynchronous tasks means things you have to wait for, such as fetching data from an API.

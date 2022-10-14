@@ -1,0 +1,3 @@
+What is an Object ?
+
+An obeject is an instance of a class.
